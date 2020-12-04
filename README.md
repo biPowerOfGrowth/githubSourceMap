@@ -10,3 +10,7 @@ js编译器 the-super-tiny-compiler，原始仓库地址https://github.com/jamie
 本人仓库 https://github.com/biPowerOfGrowth/Frontend-05-Template
 
 官方仓库 https://github.com/GeekUniversity/Frontend-05-Template
+
+# 3、Microsoft仓库地址
+
+https://github.com/microsoft
