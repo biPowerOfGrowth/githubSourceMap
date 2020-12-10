@@ -21,3 +21,7 @@ https://github.com/microsoft
 # 4、百度脑图git仓库地址
 
 https://github.com/fex-team/kityminder
+
+# 5、jsmind仓库地址
+
+https://github.com/hizzgdev/jsmind
