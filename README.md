@@ -17,3 +17,7 @@ js编译器 the-super-tiny-compiler，
 # 3、Microsoft仓库地址
 
 https://github.com/microsoft
+
+# 4、百度脑图git仓库地址
+
+https://github.com/fex-team/kityminder
