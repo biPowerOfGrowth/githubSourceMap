@@ -25,3 +25,15 @@ https://github.com/fex-team/kityminder
 # 5、jsmind仓库地址
 
 https://github.com/hizzgdev/jsmind
+
+# 6、el-admin仓库地址
+
+eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由
+
+文档地址i:https://github.com/elunez/eladmin-doc
+
+前端地址： https://github.com/elunez/eladmin-web
+
+后端地址： https://github.com/elunez/eladmin、
+
+文档地址： https://el-admin.vip/
