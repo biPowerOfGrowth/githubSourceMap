@@ -49,3 +49,7 @@ https://github.com/kamranahmedse/developer-roadmap
 # 9、有赞团队地址github地址
 
 https://github.com/youzan
+
+# 10、nodejs资源
+
+https://github.com/jobbole/awesome-nodejs-cn
