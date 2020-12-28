@@ -53,3 +53,11 @@ https://github.com/youzan
 # 10、nodejs资源
 
 https://github.com/jobbole/awesome-nodejs-cn
+
+# 11、微软github地址
+
+https://github.com/microsoft
+
+web开发学习资源：
+
+https://github.com/microsoft/Web-Dev-For-Beginners
