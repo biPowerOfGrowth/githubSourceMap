@@ -61,3 +61,8 @@ https://github.com/microsoft
 web开发学习资源：
 
 https://github.com/microsoft/Web-Dev-For-Beginners
+
+# 12、爱彼迎BI开源地址
+
+https://github.com/apache/incubator-superset
+
